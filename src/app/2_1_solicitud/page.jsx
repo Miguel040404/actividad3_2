@@ -45,11 +45,11 @@ export default function Home() {
         </ItemLista>
 
         <ItemLista>
-        <spa className="font-bold">Impreso de solicitud cumplimentado</spa>. Descargar impreso de solicitud (27155 B)
+          <spa className="font-bold">Impreso de solicitud cumplimentado</spa>. Descargar impreso de solicitud (27155 B)
         </ItemLista>
 
         <ItemLista>
-        <spa className="font-bold">Impreso 046 </spa> (se debe enviar el ejemplar para la administración y también el ejemplar para el interesado, que se devolverá sellado por el centro como resguardo del título).
+          <spa className="font-bold">Impreso 046 </spa> (se debe enviar el ejemplar para la administración y también el ejemplar para el interesado, que se devolverá sellado por el centro como resguardo del título).
         </ItemLista>
 
         <div className="flex flex-col gap-4 bg-blue-200 p-10 rounded-3xl shadow-lg shadow-slate-300">
